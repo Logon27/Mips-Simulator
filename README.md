@@ -46,7 +46,7 @@ Divide By Zero | Integer divide by zero
 
 <img src="https://i.imgur.com/cxRwupl.png">
 
-## Example output file:
+## Example output:
 
 The sample program reads an integer specifying the number of integers to sum. 
 Then it reads those integers from stdin. Then prints the output.
